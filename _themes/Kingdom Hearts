@@ -1,0 +1,23 @@
+---
+title: {Kingdom Hearts} #*
+author: {mrlittleforest} #*
+description_markdown:A Kingdom Hearts theme for your discord >- #* Markdown is allowed
+  A Description
+download: https://github.com/ #* Github isn't required but if it isn't used then further inspection will happen
+support: # A link to allow people to get support or give feedback for the theme
+demo: https://rawgit.com/ # The demo needs to be a direct link to the theme's file. Rawgit is recommended
+style: dark # For demo only. This chooses if you want the Light or Dark discord demo for your theme. Lowercase is only allowed. 
+tags:
+software: # The list of softwares your theme supports (remove if you don't support it)
+  - EnhancedDiscord
+  - BandagedBD
+  - BetterDiscord
+  - DiscordInjections
+images:
+  - name: {Kingdom Hearts} Preview
+    image: https://stmed.net/sites/default/files/kingdom-hearts-hd-wallpapers-33289-2039040.jpg
+  - name: {Kingdom Hearts} Preview - {Kingdom Hearts}
+    image: https://stmed.net/sites/default/files/kingdom-hearts-hd-wallpapers-33289-2039040.jpg
+layout: product #* DON'T CHANGE
+ghcommentid: #0
+---
